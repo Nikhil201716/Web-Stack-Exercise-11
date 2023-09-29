@@ -1,0 +1,13 @@
+Create a new React app if you haven't already:
+
+npx create-react-app task-manager
+cd task-manager
+
+
+------------------------------------
+
+
+un your application:
+
+
+npm start
